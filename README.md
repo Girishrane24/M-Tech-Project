@@ -2,19 +2,6 @@
 
 ---
 
-## 📋 Table of Contents
-1. [Executive Abstract & Research Statement](#-executive-abstract--research-statement)
-2. [Academic Objectives & Key Contributions](#-academic-objectives--key-contributions)
-3. [System Architecture & Core Engineering Design](#-system-architecture--core-engineering-design)
-4. [Mathematical Modeling & Mathematical Formulations](#-mathematical-modeling--mathematical-formulations)
-5. [Hardware-in-the-Loop (HIL) & Components Specification](#-hardware-in-the-loop-hil--components-specification)
-6. [Software Engineering, Pipelines & Frameworks](#-software-engineering-pipelines--frameworks)
-7. [Installation, Dependencies, and Compilation](#-installation-dependencies-and-compilation)
-8. [Experimental Setup, Simulations & Validation](#-experimental-setup-simulations--validation)
-9. [Results, Performance Metrics & Comparative Analysis](#-results-performance-metrics--comparative-analysis)
-10. [Future Scope & Research Directions](#-future-scope--research-directions)
-11. [Publications & Citations](#-publications--citations)
-12. [License & Acknowledgments](#-license--acknowledgments)
 
 ---
 
